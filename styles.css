@@ -37,3 +37,18 @@
     
 }
 
+.boton-2 > button{
+    background-color: green;
+}
+
+.seccion-1  h1{    
+   font-size: 88px;
+}
+
+.seccion-1 p{
+    font-size: 30px;
+}
+
+.abajo-boton{
+    font-size: 10px;
+}
