@@ -1,0 +1,39 @@
+.actions > *{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #025157;
+    text-decoration: none;
+}
+
+.btn{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 1em;
+    padding: 15px 20px;
+    text-align: center;
+    color: #fff;
+    background: #025157;
+    border-radius: 8px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    
+}
+
+
+.nav-item{
+    padding-right: 45px;
+    
+}
+
+ ul > li > a{
+     font-size: 25px;
+    color: #025157;
+}
+
+.acciones{
+    font-size: 30px;
+    padding-right: 30px ;
+    
+}
+
