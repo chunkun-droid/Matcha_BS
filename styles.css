@@ -37,18 +37,55 @@
     
 }
 
+.boton-2{
+    padding-top: 60px;
+}
 .boton-2 > button{
-    background-color: green;
+    background-color: #67b54b;
+}
+
+.seccion-1{
+    padding-top: 250px;
+    padding-left: 50px;
+   
 }
 
 .seccion-1  h1{    
    font-size: 88px;
+   font-family: 'Volkhov', serif;
+   color: #025157;
 }
 
-.seccion-1 p{
+.info-1{
     font-size: 30px;
 }
 
-.abajo-boton{
-    font-size: 10px;
+ .abajo-boton{
+     color: gray;
+     font-size: 20px;
+     
+    
+}
+
+.logos{
+    padding-top: 150px;
+}
+
+.logos  h1{
+    color: gray;
+    text-align: center;
+    font-size: 22px;
+}
+
+.imagenes-logos{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 1500px;
+    margin: 0 auto;
+    
+    
+    background-color: gray;
+    
 }
