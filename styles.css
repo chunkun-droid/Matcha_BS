@@ -1,0 +1,139 @@
+.actions > *{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #025157;
+    text-decoration: none;
+}
+
+.btn{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 1em;
+    padding: 15px 20px;
+    text-align: center;
+    color: #fff;
+    background: #025157;
+    border-radius: 8px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    
+}
+
+
+.nav-item{
+    padding-right: 45px;
+    
+}
+
+ ul > li > a{
+     font-size: 25px;
+    color: #025157;
+}
+
+.acciones{
+    font-size: 30px;
+    padding-right: 30px ;
+    
+}
+
+.boton-2{
+    padding-top: 60px;
+}
+.boton-2 > button{
+    background-color: #67b54b;
+}
+
+.seccion-1{
+    padding-top: 250px;
+    padding-left: 50px;
+   
+}
+
+.seccion-1  h1{    
+   font-size: 88px;
+   font-family: 'Volkhov', serif;
+   color: #025157;
+}
+
+.info-1{
+    font-size: 30px;
+}
+
+ .abajo-boton{
+     color: gray;
+     font-size: 20px;
+     
+    
+}
+
+.logos{
+    padding-top: 150px;
+}
+
+.logos  h1{
+    color: gray;
+    text-align: center;
+    font-size: 22px;
+}
+
+.imagenes-logos{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 1500px;
+    margin: 0 auto;
+    
+    
+
+    
+}
+
+.cartas{
+    padding-top: 350px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.cartas-titulo{
+    padding-bottom: 100px;
+}
+
+.cartas h1{
+    text-align: center;
+    font-family: 'Volkhov', serif;
+    color: #025157;
+    font-size: 80px;
+}
+
+.sub-2{
+    text-align: center;
+    font-size: 27px;
+}
+
+.card-deck h5{
+   font-size: 35px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+
+}
+
+.card-deck p{
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    padding-top: 20px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.cartas-2{
+    padding-top: 350px;
+}
+
+.cartas-2 h1{
+    text-align: center;
+    font-family: 'Volkhov', serif;
+    color: #025157;
+    font-size: 50px;
+}
